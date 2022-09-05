@@ -3,7 +3,7 @@ Atividade - Calculadora de IMC (Java)
 
 ```bash
 Objetivo: Utilizar Java para criar uma Calculadora de IMC, 
-realizando os cálculos e classificando-os.
+realizando os cálculos e classificando os resultados.
 
 Descrição: Aplicativo Mobile Android nativo, calculadora de IMC.
 ```
