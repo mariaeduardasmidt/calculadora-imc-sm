@@ -7,5 +7,5 @@ realizando os cálculos e classificando-os.
 
 Descrição: Aplicativo Mobile Android nativo, calculadora de IMC.
 ```
-Desenvolvido por: Maria Eduarda Smidt da Silva  
+Desenvolvido por: Maria Eduarda Smidt da Silva e Carlos Daniel Pasquali.
 Engenharia da Computação - Universidade SATC
