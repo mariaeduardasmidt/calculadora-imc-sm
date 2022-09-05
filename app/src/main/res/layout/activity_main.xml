@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#A39C27B0"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:layout_width="363dp"
+        android:layout_height="686dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="56dp"
+        android:orientation="vertical"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <TextView
+            android:id="@+id/nomeAplicativo"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="sans-serif-condensed-medium"
+            android:text="Calculadora de IMC"
+            android:textAlignment="center"
+            android:textColor="#FFFFFF"
+            android:textSize="36sp" />
+
+        <EditText
+            android:id="@+id/edtAltura"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:fontFamily="sans-serif-condensed"
+            android:hint="Informe sua altura:"
+            android:inputType="numberDecimal"
+            android:minHeight="48dp"
+            android:textColor="#FFFFFF"
+            android:textColorHighlight="#9C27B0"
+            android:textColorHint="#FFFFFF"
+            android:textColorLink="#9C27B0" />
+
+        <EditText
+            android:id="@+id/edtPeso"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:fontFamily="sans-serif-condensed"
+            android:hint="Informe seu peso:"
+            android:inputType="numberDecimal"
+            android:minHeight="48dp"
+            android:textColor="#FFFFFF"
+            android:textColorHighlight="#9C27B0"
+            android:textColorHint="#FFFFFF"
+            android:textColorLink="#9C27B0" />
+
+        <Button
+            android:id="@+id/btnCalcular"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:backgroundTint="#1F1E20"
+            android:text="Calcular"
+            android:textColor="#F3EBF4" />
+
+        <TextView
+            android:id="@+id/numResultado"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:fontFamily="sans-serif-condensed-medium"
+            android:text="Seu IMC:"
+            android:textAlignment="center"
+            android:textColor="#FFFFFF"
+            android:textSize="34sp" />
+
+        <TextView
+            android:id="@+id/txtClassificacao"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:fontFamily="sans-serif-condensed-medium"
+            android:text="Classificação:"
+            android:textAlignment="center"
+            android:textColor="#FFFFFF"
+            android:textColorLink="#9C27B0"
+            android:textSize="34sp" />
+
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>
