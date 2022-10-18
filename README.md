@@ -1,11 +1,8 @@
-## Soluções Mobile
-Atividade - Calculadora de IMC (Java)
+<!-- SOBRE O PROJETO -->
+## Sobre o projeto
+
+Projeto realizado na matéria de 'Soluções Mobile' do curso de Engenharia da Computação da UNISATC.
 
 ```bash
-Objetivo: Utilizar Java para criar uma Calculadora de IMC, 
-realizando os cálculos e classificando os resultados.
-
-Descrição: Aplicativo Mobile Android nativo, calculadora de IMC.
+Objetivo: utilizar Java para criar uma Calculadora de IMC, realizando os cálculos e classificando os resultados.
 ```
-Desenvolvido por: Maria Eduarda Smidt da Silva e Carlos Daniel Pasquali.  
-Engenharia da Computação - Universidade SATC
