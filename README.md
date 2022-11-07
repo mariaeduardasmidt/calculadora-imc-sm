@@ -27,3 +27,8 @@ Para iniciar o projeto em sua máquina, é necessário possuir o Node.js instala
    ```js
    npm start
    ```
+   
+<!-- AUTORES -->
+## Autores do projeto
+
+Desenvolvido por: Maria Eduarda Smidt e Carlos Daniel Pasquali.
