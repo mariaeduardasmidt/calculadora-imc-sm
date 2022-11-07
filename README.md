@@ -4,6 +4,6 @@
 Projeto realizado na matéria de 'Soluções Mobile' do curso de Engenharia da Computação da UNISATC.
 
 ```bash
-Objetivo: utilizar Java para criar uma Calculadora de IMC, em Android Nativo, realizando os cálculos e classificando os
-resultados obtidos.
+Objetivo: utilizar Java para criar uma Calculadora de IMC, em Android Nativo, realizando os cálculos e
+classificando os resultados obtidos.
 ```
